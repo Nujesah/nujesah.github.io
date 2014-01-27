@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://Nujesah.github.io/atom.xml" rel="self"/>
+  <link href="http://Nujesah.github.io/"/>
+  <updated>2014-01-27T19:33:49+09:00</updated>
+  <id>http://Nujesah.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Myfirstpost]]></title>
+    <link href="http://Nujesah.github.io/blog/2014/01/27/myfirstpost/"/>
+    <updated>2014-01-27T00:00:00+09:00</updated>
+    <id>http://Nujesah.github.io/blog/2014/01/27/myfirstpost</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;&ndash;
+layout: post
+title: &ldquo;myfirstpost&rdquo;
+date: 2014-01-27 19:17:13 +0900
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>初めての投稿。日本語の表示テストです。
+このファイルはUTF-8でどうたらこうたら。</p>
+]]></content>
+  </entry>
+  
+</feed>
